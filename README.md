@@ -1,4 +1,4 @@
-#Stock Exchange
+Stock Exchange
 
 Simulate or implement a stock exchange where shares are traded. The shares belong to various companies listed on the exchange. Transactions are conducted by buyers and sellers of shares as follows:
 
